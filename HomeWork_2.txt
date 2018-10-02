@@ -1,0 +1,9 @@
+1. Блок операторів розділяєтсья символами {...}
+2. Файл компілятора C# називається csc.exe
+3. Вірний наступний кусочок коду:
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Hello world") ;
+		Console.ReadLine() ;
+	}
+
